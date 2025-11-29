@@ -4,6 +4,8 @@
 
 This project presents an analytical dashboard focused on understanding insurance claim behavior based on demographic, vehicle, and regional factors. The goal is to identify patterns that influence claim amounts, frequency, risk segmentation, and customer profiles to support better decision-making for underwriting and pricing strategies.
 
+![insurence dashboard](https://github.com/datawithdigbijoy/-Insurance-Risk-Claim-Analysis-Dashboard/blob/main/insurance.jpg)
+
 **Objective**
 
 To analyse insurance claim data and extract key trends that support better risk management, profitability, and customer segmentation.
